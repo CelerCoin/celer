@@ -1,11 +1,13 @@
 Celer Core integration/staging repository
 =====================================
-> [Celer Official Website](https://celercoin.com)
-> [Celer BlockExplorer](http://explorer.celercoin.com)
-> [Celer Exchanger](https://exchange.celercoin.com)
+![Celer Coin](https://raw.githubusercontent.com/CelerCoin/celer/master/src/qt/res/icons/bitcoin.png)
 
-> [Join our Discord for the latest news](https://discord.gg/JxUMeXM)
-> [Join Telegram Chat](https://t.me/joinchat/IJF3OxIvHSiSpP9nOzDq1w)
+* [Celer Official Website](https://celercoin.com)
+* [Celer BlockExplorer](http://explorer.celercoin.com)
+* [Celer Exchanger](https://exchange.celercoin.com)
+
+* [Join our Discord for the latest news](https://discord.gg/JxUMeXM)
+* [Join Telegram Chat](https://t.me/joinchat/IJF3OxIvHSiSpP9nOzDq1w)
 
 -------
 
