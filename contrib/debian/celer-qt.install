@@ -1,0 +1,6 @@
+usr/local/bin/celer-qt usr/bin
+share/pixmaps/celer32.xpm usr/share/pixmaps
+share/pixmaps/celer16.xpm usr/share/pixmaps
+share/pixmaps/celer128.png usr/share/pixmaps
+debian/celer-qt.desktop usr/share/applications
+debian/celer-qt.protocol usr/share/kde4/services/

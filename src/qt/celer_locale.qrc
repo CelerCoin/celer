@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/celer_bg.qm</file>
+        <file alias="de">locale/celer_de.qm</file>
+        <file alias="en">locale/celer_en.qm</file>
+        <file alias="es">locale/celer_es.qm</file>
+        <file alias="fi">locale/celer_fi.qm</file>
+        <file alias="fr">locale/celer_fr.qm</file>
+        <file alias="it">locale/celer_it.qm</file>
+        <file alias="ja">locale/celer_ja.qm</file>
+        <file alias="pl">locale/celer_pl.qm</file>
+        <file alias="pt">locale/celer_pt.qm</file>
+        <file alias="ru">locale/celer_ru.qm</file>
+        <file alias="sk">locale/celer_sk.qm</file>
+        <file alias="sv">locale/celer_sv.qm</file>
+        <file alias="vi">locale/celer_vi.qm</file>
+        <file alias="zh_CN">locale/celer_zh_CN.qm</file>
+        <file alias="zh_TW">locale/celer_zh_TW.qm</file>
+    </qresource>
+</RCC>
