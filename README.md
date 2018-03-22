@@ -16,12 +16,15 @@ Celer Core integration/staging repository
 <tr><td>Ticker</td><td>CELER</td></tr>
 <tr><td>Algorithm</td><td>NeoScrypt</td></tr>
 <tr><td>Block Time</td><td>120 Seconds</td></tr>
-<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
+<tr><td>Difficulty Retargeting, early-stage</td><td>Every 30 blocks before 15200 block</td></tr>
+<tr><td>Difficulty Retargeting, late-stage</td><td>Every block after 15200 block</td></tr>
+<tr><td>Difficulty Algorithm, late-stage</td><td>Dark Gravity Wave after 15200 block</td></tr>
 <tr><td>Block Confirmation After</td><td>101 block</td></tr>
-<tr><td>Maximum Coin Supply</td><td>21.000.000</td></tr>
-<tr><td>Initial Supply</td><td>2.4%</td></tr>
 <tr><td>Reward Per block</td><td>10 CELER</td></tr>
 <tr><td>Rewards distribution</td><td>80% MasterNodes / 20% miners</td></tr>
+<tr><td>Maximum Coin Supply</td><td>21.000.000</td></tr>
+<tr><td>Initial Supply</td><td>2.4%</td></tr>
+<tr><td>Required Coins for Masternode</td><td>1000 CELER</td></tr>
 <tr><td>Anonymity</td><td>PrivateSend</td></tr>
 <tr><td>Instant Send</td><td>4 seconds</td></tr>
 </table>
